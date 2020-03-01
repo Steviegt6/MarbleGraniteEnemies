@@ -1,0 +1,17 @@
+Marble & Granite Mixed Enemies
+
+A mod that adds Marble variants of Granite enemies and Granite variants of Marble enemies! (Not including Medusa)
+===========================================
+[c/1C1C1C:Discord]
+https://github.com/Steviegt6/
+===========================================
+[c/1C1C1C:Website]
+https://steviegt6.github.io/
+===========================================
+[c/1C1C1C:Credits]
+Steviegt6: Coder and developer.
+GoodPro712: GoodProLib.
+===========================================
+
+[c/151515:v1.0.0]
+- Initial mod release.
